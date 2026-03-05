@@ -56,8 +56,9 @@ marr-laser/
 │   ├── client-asset-brief.md
 │   └── sections/             ← 01-header.html through 14-footer-cta.html
 ├── designs/                  ← design directions for client review
-│   ├── index.html            ← branded hub page
+│   ├── index.html            ← branded hub page (links to style guide)
 │   ├── styles.css
+│   ├── style-guide.html      ← component animation review for Ashley (buttons, cards, CTA, nav)
 │   ├── design-a/
 │   ├── design-b/
 │   └── design-c/             ← chosen direction (Warm Boutique)

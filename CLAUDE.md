@@ -3,9 +3,9 @@
 ## Overview
 All deliverables for MARR Laser & Skin Clinic: website, landing page, design directions, and project docs.
 
-**GitHub Pages**: https://ajeibbotson-cmyk.github.io/marr-laser/
-**Design Hub**: https://ajeibbotson-cmyk.github.io/marr-laser/designs/
-**Layout Variants**: https://ajeibbotson-cmyk.github.io/marr-laser/website/variants/
+**GitHub Pages**: https://foxhue.github.io/marr-laser/
+**Design Hub**: https://foxhue.github.io/marr-laser/designs/
+**Layout Variants**: https://foxhue.github.io/marr-laser/website/variants/
 
 ## Repo Structure
 ```
@@ -121,7 +121,7 @@ Brand guidelines PDF, client briefs, SEO audit, development plan, and competitor
 ## Deployment
 - **Branch**: `main` (GitHub Pages source)
 - **Pages**: Enabled, serves from root of `main`
-- **Workflow**: Use `/sc:deploy-designs marr --repo ajeibbotson-cmyk/marr-laser` to redeploy designs
+- **Workflow**: Use `/sc:deploy-designs marr --repo foxhue/marr-laser` to redeploy designs
 
 ## Architecture Notes
 - Each design is self-contained: `index.html` + `styles.css`
